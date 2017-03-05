@@ -1,0 +1,84 @@
+name,description,timeSeries
+AirPassengers,Monthly Airline Passenger Numbers 1949-1960,TRUE
+BJsales,Sales Data with Leading Indicator,TRUE
+BOD,Biochemical Oxygen Demand,FALSE
+CO2,Carbon Dioxide Uptake in Grass Plants,FALSE
+ChickWeight,Weight versus age of chicks on different diets,FALSE
+DNase,Elisa assay of DNase,FALSE
+EuStockMarkets,"Daily Closing Prices of Major European Stock Indices, 1991-1998",TRUE
+Formaldehyde,Determination of Formaldehyde,FALSE
+HairEyeColor,Hair and Eye Color of Statistics Students,FALSE
+Harman23.cor,Harman Example 2.3,FALSE
+Harman74.cor,Harman Example 7.4,FALSE
+Indometh,Pharmacokinetics of Indomethacin,FALSE
+InsectSprays,Effectiveness of Insect Sprays,FALSE
+JohnsonJohnson,Quarterly Earnings per Johnson & Johnson Share,TRUE
+LakeHuron,Level of Lake Huron 1875-1972,TRUE
+LifeCycleSavings,Intercountry Life-Cycle Savings Data,FALSE
+Loblolly,Growth of Loblolly pine trees,FALSE
+Nile,Flow of the River Nile,TRUE
+Orange,Growth of Orange Trees,FALSE
+OrchardSprays,Potency of Orchard Sprays,FALSE
+PlantGrowth,Results from an Experiment on Plant Growth,FALSE
+Puromycin,Reaction Velocity of an Enzymatic Reaction,FALSE
+Theoph,Pharmacokinetics of Theophylline,FALSE
+Titanic,Survival of passengers on the Titanic,FALSE
+ToothGrowth,The Effect of Vitamin C on Tooth Growth in Guinea Pigs,FALSE
+UCBAdmissions,Student Admissions at UC Berkeley,FALSE
+UKDriverDeaths,Road Casualties in Great Britain 1969-84,TRUE
+UKgas,UK Quarterly Gas Consumption,TRUE
+USAccDeaths,Accidental Deaths in the US 1973-1978,TRUE
+USArrests,Violent Crime Rates by US State,FALSE
+USJudgeRatings,Lawyers' Ratings of State Judges in the US Superior Court,FALSE
+USPersonalExpenditure,Personal Expenditure Data,FALSE
+VADeaths,Death Rates in Virginia (1940),FALSE
+WWWusage,Internet Usage per Minute,TRUE
+WorldPhones,The World's Telephones,FALSE
+ability.cov,Ability and Intelligence Tests,FALSE
+airmiles,"Passenger Miles on Commercial US Airlines, 1937-1960",TRUE
+airquality,New York Air Quality Measurements,FALSE
+anscombe,Anscombe's Quartet of 'Identical' Simple Linear Regressions,FALSE
+attenu,The Joyner-Boore Attenuation Data,FALSE
+attitude,The Chatterjee-Price Attitude Data,FALSE
+austres,Quarterly Time Series of the Number of Australian Residents,TRUE
+cars,Speed and Stopping Distances of Cars,FALSE
+chickwts,Chicken Weights by Feed Type,FALSE
+co2,Mauna Loa Atmospheric CO2 Concentration,TRUE
+crimtab,Student's 3000 Criminals Data,FALSE
+discoveries,Yearly Numbers of Important Discoveries,TRUE
+esoph,"Smoking, Alcohol and (O)esophageal Cancer",FALSE
+euro,Conversion Rates of Euro Currencies,FALSE
+eurodist,Distances Between European Cities and Between US Cities,FALSE
+faithful,Old Faithful Geyser Data,FALSE
+freeny,Freeny's Revenue Data,FALSE
+infert,Infertility after Spontaneous and Induced Abortion,FALSE
+iris,Edgar Anderson's Iris Data,FALSE
+islands,Areas of the World's Major Landmasses,FALSE
+lh,Luteinizing Hormone in Blood Samples,TRUE
+longley,Longley's Economic Regression Data,FALSE
+lynx,Annual Canadian Lynx trappings 1821-1934,TRUE
+morley,Michelson Speed of Light Data,FALSE
+mtcars,Motor Trend Car Road Tests,FALSE
+nhtemp,Average Yearly Temperatures in New Haven,TRUE
+nottem,"Average Monthly Temperatures at Nottingham, 1920-1939",TRUE
+npk,"Classical N, P, K Factorial Experiment",FALSE
+occupationalStatus,Occupational Status of Fathers and their Sons,FALSE
+precip,Annual Precipitation in US Cities,FALSE
+presidents,Quarterly Approval Ratings of US Presidents,TRUE
+pressure,Vapor Pressure of Mercury as a Function of Temperature,FALSE
+quakes,Locations of Earthquakes off Fiji,FALSE
+randu,Random Numbers from Congruential Generator RANDU,FALSE
+rivers,Lengths of Major North American Rivers,FALSE
+rock,Measurements on Petroleum Rock Samples,FALSE
+sleep,Student's Sleep Data,FALSE
+stackloss,Brownlee's Stack Loss Plant Data,FALSE
+sunspot.month,"Monthly Sunspot Data, from 1749 to ""Present""",TRUE
+sunspot.year,"Yearly Sunspot Data, 1700-1988",TRUE
+sunspots,"Monthly Sunspot Numbers, 1749-1983",TRUE
+swiss,Swiss Fertility and Socioeconomic Indicators (1888) Data,FALSE
+treering,"Yearly Treering Data, -6000-1979",TRUE
+trees,"Girth, Height and Volume for Black Cherry Trees",FALSE
+uspop,Populations Recorded by the US Census,TRUE
+volcano,Topographic Information on Auckland's Maunga Whau Volcano,FALSE
+warpbreaks,The Number of Breaks in Yarn during Weaving,FALSE
+women,Average Heights and Weights for American Women,FALSE
