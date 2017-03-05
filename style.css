@@ -1,0 +1,15 @@
+.busy { 
+	postion: fixed;
+	right: 300px;
+	bottom: 0;
+	background: rgba(230, 230, 230, .8);
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-bottom: 40px;
+	padding-right: 30px;
+	border-radius: 5px;
+	border: solid black;
+    border-width: 5px;
+	opacity: 1;
+}
